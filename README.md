@@ -1,6 +1,7 @@
 Add the following alias to your bashrc or zshrc file:
 ```alias tanklist='python3 <scripts_path>/server_status.py'```
 
+update <auth> in server_status.py
 
 Usage examples:
 
