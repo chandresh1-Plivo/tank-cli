@@ -10,7 +10,7 @@ CHANNEL_COUNT_API = "https://routing-svc-lbe.plivops.com/Manage/ChannelCount/"
 
 # Authorization header
 headers = {
-    'Authorization': 'Basic UERTR0RTNzY4NzZRM0pRR0VBOmY5UDZyWmk4RThSY2hNNmdaNW05ZGhiZ013TmNBVmxJSkVZa3VJNDU='
+    'Authorization': 'Basic <Auth>'
 }
 
 # Map abbreviations to full category names
