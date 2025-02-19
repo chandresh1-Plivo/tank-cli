@@ -1,5 +1,5 @@
 Add the following alias to your bashrc or zshrc file:
-```alias tanklist='python3 /Users/chandresh/scripts/server_status.py'```
+```alias tanklist='python3 <scripts_path>/server_status.py'```
 
 
 Usage examples:
